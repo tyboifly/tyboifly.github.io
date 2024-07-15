@@ -36,9 +36,11 @@ jobs:
       - name: Upload your site
         uses: withastro/action@v2
         with:
-          path: . # The root location of your Astro project inside the repository. (optional)
-          # node-version: 20  # This is already specified in the setup-node step above.
-          package-manager: pnpm # Specify that PNPM should be used
+          path: . # The root location of your Astro project inside the repository.
+          node-version: "20"
+          package-manager: "pnpm"
+        env:
+          INPUT_PM: pnpm
 
   deploy:
     needs: build
