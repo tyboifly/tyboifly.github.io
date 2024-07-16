@@ -1,9 +1,2 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
-
-::github{repo="saicaca/fuwari"}
-
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+Tyson graduated from the University of Washington (Seattle) in 2024 with a Bachelor’s degree in Mechanical Engineering. He joined the lab as a research intern after taking a dynamics course taught by Dr. Kurt, where he discovered his interest in medical imaging and exploring the biomechanical properties of the brain. Tyson is an NSF GRFP Honorable Mention and a finalist in the 2024 SB3C BS Student Paper Competition. Currently, he is a Ph.D. student at the University of Washington under the supervision of Dr. Kurt. His research focuses on utilizing advanced MRI imaging modalities and datasets to gain a holistic understanding of the brain’s biomechanical behavior.
