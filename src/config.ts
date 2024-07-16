@@ -9,14 +9,14 @@ import { LinkPreset } from './types/config'
 export const siteConfig: SiteConfig = {
   title: 'Tyson Lam',
   subtitle: 'Pe',
-  lang: 'en',         // 'en', 'zh_CN', 'zh_TW', 'ja'
+  lang: 'en',
   themeColor: {
     hue: 250,         // Default hue for the theme color, from 0 to 360. e.g. red: 0, teal: 200, cyan: 250, pink: 345
-    fixed: false,     // Hide the theme color picker for visitors
+    fixed: true,     // Hide the theme color picker for visitors
   },
   banner: {
     enable: true,
-    src: 'assets/images/demo-banner.png',   // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+    src: 'assets/images/banner2.png',   // Relative to the /src directory. Relative to the /public directory if it starts with '/'
     position: 'center', // Equivalent to object-position, defaults center
   },
   favicon: [    // Leave this array empty to use the default favicon
@@ -42,9 +42,9 @@ export const navBarConfig: NavBarConfig = {
 }
 
 export const profileConfig: ProfileConfig = {
-  avatar: 'assets/images/avatar_github.jpg',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
-  name: 'tyboifly',
-  bio: 'University of Washington',
+  avatar: 'assets/images/profile_pic.png',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+  name: 'tyson',
+  bio: ' phd student @ uw',
   links: [
     // {
     //   name: 'Twitter',
