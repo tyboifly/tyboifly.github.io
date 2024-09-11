@@ -1,2 +1,7 @@
 # About
-Tyson graduated from the University of Washington (Seattle) in 2024 with a Bachelor’s degree in Mechanical Engineering. He joined the lab as a research intern after taking a dynamics course taught by Dr. Kurt, where he discovered his interest in medical imaging and exploring the biomechanical properties of the brain. Tyson is an NSF GRFP Honorable Mention and a finalist in the 2024 SB3C BS Student Paper Competition. Currently, he is a Ph.D. student at the University of Washington under the supervision of Dr. Kurt. His research focuses on utilizing advanced MRI imaging modalities and datasets to gain a holistic understanding of the brain’s biomechanical behavior.
+
+hi, i'm tyson!
+
+i'm a graduate from the university of washington with a bs in mechEng.  
+
+i'm interested in utlizing advanced medical imaging modalities to generate large datasets to explore and characterize the biomechanical properties of the brain, aiming to contribute to a comprehensive understanding of its structural and functional dynamics! (woo a mouthful there 😅)
