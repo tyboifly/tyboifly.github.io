@@ -7,7 +7,7 @@ import type {
 import { LinkPreset } from './types/config'
 
 export const siteConfig: SiteConfig = {
-  title: 'tysons',
+  title: 'tyson',
   subtitle: 'space',
   lang: 'en',
   themeColor: {
